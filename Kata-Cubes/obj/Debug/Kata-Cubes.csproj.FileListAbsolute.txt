@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\Kata-Cubes\Kata-Cubes\obj\Debug\Kata-Cubes.csprojAssemblyReference.cache
+C:\Users\Yasin\source\repos\Kata-Cubes\Kata-Cubes\obj\Debug\Kata-Cubes.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\Kata-Cubes\Kata-Cubes\bin\Debug\Kata-Cubes.exe.config
+C:\Users\Yasin\source\repos\Kata-Cubes\Kata-Cubes\bin\Debug\Kata-Cubes.exe
+C:\Users\Yasin\source\repos\Kata-Cubes\Kata-Cubes\bin\Debug\Kata-Cubes.pdb
+C:\Users\Yasin\source\repos\Kata-Cubes\Kata-Cubes\obj\Debug\Kata-Cubes.exe
+C:\Users\Yasin\source\repos\Kata-Cubes\Kata-Cubes\obj\Debug\Kata-Cubes.pdb
